@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "fee": 378,
+    "image": "http://dummyimage.com/188x113.jpg/5fa2dd/ffffff",
+    "name": "mi integer ac neque duis",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 38383,
+      "points_per_dollar": 1.4,
+      "bonus": "rutrum nulla tellus in"
+    }
+  },
+  {
+    "id": 2,
+    "fee": 497,
+    "image": "http://dummyimage.com/243x222.bmp/ff4444/ffffff",
+    "name": "ligula sit amet",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 34648,
+      "points_per_dollar": 1.6,
+      "bonus": "erat id mauris vulputate elementum"
+    }
+  },
+  {
+    "id": 3,
+    "fee": 243,
+    "image": "http://dummyimage.com/194x159.png/dddddd/000000",
+    "name": "ultrices posuere cubilia curae nulla",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 39150,
+      "points_per_dollar": 0.5,
+      "bonus": "nibh fusce lacus purus aliquet at"
+    }
+  },
+  {
+    "id": 4,
+    "fee": 262,
+    "image": "http://dummyimage.com/143x112.bmp/5fa2dd/ffffff",
+    "name": "non mattis pulvinar nulla pede ullamcorper",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 61978,
+      "points_per_dollar": 0.8,
+      "bonus": "quis turpis eget elit sodales"
+    }
+  },
+  {
+    "id": 5,
+    "fee": 494,
+    "image": "http://dummyimage.com/133x248.png/5fa2dd/ffffff",
+    "name": "amet turpis elementum",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 76502,
+      "points_per_dollar": 1.0,
+      "bonus": "etiam pretium iaculis justo"
+    }
+  },
+  {
+    "id": 6,
+    "fee": 588,
+    "image": "http://dummyimage.com/235x111.png/5fa2dd/ffffff",
+    "name": "orci eget orci vehicula condimentum curabitur",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 81226,
+      "points_per_dollar": 1.8,
+      "bonus": "sapien ut nunc vestibulum ante"
+    }
+  },
+  {
+    "id": 7,
+    "fee": 198,
+    "image": "http://dummyimage.com/118x204.jpg/dddddd/000000",
+    "name": "cum sociis natoque penatibus",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 44709,
+      "points_per_dollar": 1.8,
+      "bonus": "blandit mi in porttitor pede"
+    }
+  },
+  {
+    "id": 8,
+    "fee": 248,
+    "image": "http://dummyimage.com/134x233.png/5fa2dd/ffffff",
+    "name": "odio curabitur convallis duis consequat dui",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 19726,
+      "points_per_dollar": 1.0,
+      "bonus": "lacus at velit"
+    }
+  },
+  {
+    "id": 9,
+    "fee": 438,
+    "image": "http://dummyimage.com/105x210.bmp/cc0000/ffffff",
+    "name": "pede morbi porttitor",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 57256,
+      "points_per_dollar": 1.4,
+      "bonus": "eleifend donec ut dolor morbi vel"
+    }
+  },
+  {
+    "id": 10,
+    "fee": 479,
+    "image": "http://dummyimage.com/179x220.jpg/5fa2dd/ffffff",
+    "name": "sapien sapien non mi integer",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 65538,
+      "points_per_dollar": 1.0,
+      "bonus": "iaculis justo in hac"
+    }
+  },
+  {
+    "id": 11,
+    "fee": 253,
+    "image": "http://dummyimage.com/219x129.png/ff4444/ffffff",
+    "name": "ut at dolor",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 43745,
+      "points_per_dollar": 2.0,
+      "bonus": "quam turpis adipiscing lorem vitae mattis"
+    }
+  },
+  {
+    "id": 12,
+    "fee": 122,
+    "image": "http://dummyimage.com/123x202.jpg/dddddd/000000",
+    "name": "nisi eu orci",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 96938,
+      "points_per_dollar": 0.9,
+      "bonus": "lacus morbi quis tortor"
+    }
+  },
+  {
+    "id": 13,
+    "fee": 354,
+    "image": "http://dummyimage.com/130x147.png/ff4444/ffffff",
+    "name": "quisque id justo",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 29478,
+      "points_per_dollar": 1.4,
+      "bonus": "in leo maecenas pulvinar"
+    }
+  },
+  {
+    "id": 14,
+    "fee": 501,
+    "image": "http://dummyimage.com/162x132.png/ff4444/ffffff",
+    "name": "vitae mattis nibh",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 40786,
+      "points_per_dollar": 0.7,
+      "bonus": "mauris non ligula"
+    }
+  },
+  {
+    "id": 15,
+    "fee": 558,
+    "image": "http://dummyimage.com/173x215.bmp/5fa2dd/ffffff",
+    "name": "turpis enim blandit mi",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 23188,
+      "points_per_dollar": 1.3,
+      "bonus": "platea dictumst morbi vestibulum"
+    }
+  },
+  {
+    "id": 16,
+    "fee": 234,
+    "image": "http://dummyimage.com/103x246.jpg/cc0000/ffffff",
+    "name": "in faucibus orci",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 81113,
+      "points_per_dollar": 1.9,
+      "bonus": "imperdiet et commodo vulputate justo in"
+    }
+  },
+  {
+    "id": 17,
+    "fee": 224,
+    "image": "http://dummyimage.com/171x174.png/dddddd/000000",
+    "name": "sit amet sapien dignissim vestibulum vestibulum",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 91858,
+      "points_per_dollar": 1.1,
+      "bonus": "vel sem sed sagittis nam"
+    }
+  },
+  {
+    "id": 18,
+    "fee": 210,
+    "image": "http://dummyimage.com/108x102.jpg/ff4444/ffffff",
+    "name": "eu orci mauris lacinia sapien",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 48904,
+      "points_per_dollar": 1.2,
+      "bonus": "ante ipsum primis in"
+    }
+  },
+  {
+    "id": 19,
+    "fee": 528,
+    "image": "http://dummyimage.com/223x215.bmp/cc0000/ffffff",
+    "name": "rutrum rutrum neque aenean auctor gravida",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 64061,
+      "points_per_dollar": 0.7,
+      "bonus": "sit amet eros suspendisse accumsan"
+    }
+  },
+  {
+    "id": 20,
+    "fee": 107,
+    "image": "http://dummyimage.com/239x136.png/dddddd/000000",
+    "name": "morbi odio odio",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 99749,
+      "points_per_dollar": 2.0,
+      "bonus": "sapien cursus vestibulum proin"
+    }
+  },
+  {
+    "id": 21,
+    "fee": 411,
+    "image": "http://dummyimage.com/103x197.jpg/5fa2dd/ffffff",
+    "name": "dapibus duis at",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 52464,
+      "points_per_dollar": 1.0,
+      "bonus": "nonummy maecenas tincidunt"
+    }
+  },
+  {
+    "id": 22,
+    "fee": 377,
+    "image": "http://dummyimage.com/138x107.bmp/5fa2dd/ffffff",
+    "name": "diam id ornare imperdiet",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 29012,
+      "points_per_dollar": 0.9,
+      "bonus": "sem fusce consequat"
+    }
+  },
+  {
+    "id": 23,
+    "fee": 342,
+    "image": "http://dummyimage.com/213x184.bmp/5fa2dd/ffffff",
+    "name": "quam nec dui luctus",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 66090,
+      "points_per_dollar": 1.4,
+      "bonus": "sollicitudin mi sit amet lobortis"
+    }
+  },
+  {
+    "id": 24,
+    "fee": 255,
+    "image": "http://dummyimage.com/129x178.bmp/cc0000/ffffff",
+    "name": "blandit nam nulla integer pede",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 17392,
+      "points_per_dollar": 0.5,
+      "bonus": "ut nulla sed"
+    }
+  },
+  {
+    "id": 25,
+    "fee": 404,
+    "image": "http://dummyimage.com/211x134.bmp/ff4444/ffffff",
+    "name": "scelerisque mauris sit",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 27828,
+      "points_per_dollar": 1.8,
+      "bonus": "eros suspendisse accumsan tortor quis turpis"
+    }
+  },
+  {
+    "id": 26,
+    "fee": 465,
+    "image": "http://dummyimage.com/184x218.png/5fa2dd/ffffff",
+    "name": "praesent id massa id nisl",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 79633,
+      "points_per_dollar": 1.8,
+      "bonus": "mauris lacinia sapien quis libero nullam"
+    }
+  },
+  {
+    "id": 27,
+    "fee": 566,
+    "image": "http://dummyimage.com/207x162.bmp/dddddd/000000",
+    "name": "sodales scelerisque mauris sit amet eros",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 35505,
+      "points_per_dollar": 0.6,
+      "bonus": "vivamus in felis eu"
+    }
+  },
+  {
+    "id": 28,
+    "fee": 439,
+    "image": "http://dummyimage.com/128x173.png/5fa2dd/ffffff",
+    "name": "aliquam sit amet diam in magna",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 85615,
+      "points_per_dollar": 2.0,
+      "bonus": "at nibh in hac habitasse platea"
+    }
+  },
+  {
+    "id": 29,
+    "fee": 553,
+    "image": "http://dummyimage.com/237x216.bmp/5fa2dd/ffffff",
+    "name": "et ultrices posuere",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 41990,
+      "points_per_dollar": 1.6,
+      "bonus": "eleifend donec ut dolor morbi vel"
+    }
+  },
+  {
+    "id": 30,
+    "fee": 330,
+    "image": "http://dummyimage.com/206x202.jpg/cc0000/ffffff",
+    "name": "vulputate luctus cum sociis",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 56310,
+      "points_per_dollar": 1.7,
+      "bonus": "habitasse platea dictumst etiam faucibus"
+    }
+  },
+  {
+    "id": 31,
+    "fee": 505,
+    "image": "http://dummyimage.com/123x182.jpg/ff4444/ffffff",
+    "name": "pede justo eu massa",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 21110,
+      "points_per_dollar": 1.7,
+      "bonus": "donec dapibus duis"
+    }
+  },
+  {
+    "id": 32,
+    "fee": 427,
+    "image": "http://dummyimage.com/170x210.bmp/5fa2dd/ffffff",
+    "name": "tristique fusce congue diam",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 22865,
+      "points_per_dollar": 1.1,
+      "bonus": "sit amet eros suspendisse accumsan tortor"
+    }
+  },
+  {
+    "id": 33,
+    "fee": 225,
+    "image": "http://dummyimage.com/245x171.bmp/ff4444/ffffff",
+    "name": "sed nisl nunc rhoncus dui vel",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 84153,
+      "points_per_dollar": 1.6,
+      "bonus": "pede justo eu massa"
+    }
+  },
+  {
+    "id": 34,
+    "fee": 484,
+    "image": "http://dummyimage.com/100x160.png/cc0000/ffffff",
+    "name": "sagittis nam congue",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 99936,
+      "points_per_dollar": 1.5,
+      "bonus": "nibh in lectus pellentesque"
+    }
+  },
+  {
+    "id": 35,
+    "fee": 568,
+    "image": "http://dummyimage.com/112x231.png/dddddd/000000",
+    "name": "elementum eu interdum eu tincidunt in",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 81061,
+      "points_per_dollar": 1.9,
+      "bonus": "morbi vel lectus in"
+    }
+  },
+  {
+    "id": 36,
+    "fee": 344,
+    "image": "http://dummyimage.com/186x177.png/cc0000/ffffff",
+    "name": "hac habitasse platea dictumst etiam",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 34560,
+      "points_per_dollar": 1.3,
+      "bonus": "dolor quis odio consequat varius integer"
+    }
+  },
+  {
+    "id": 37,
+    "fee": 115,
+    "image": "http://dummyimage.com/137x238.bmp/cc0000/ffffff",
+    "name": "est donec odio justo",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 94650,
+      "points_per_dollar": 0.8,
+      "bonus": "accumsan felis ut at dolor"
+    }
+  },
+  {
+    "id": 38,
+    "fee": 440,
+    "image": "http://dummyimage.com/159x105.jpg/ff4444/ffffff",
+    "name": "justo pellentesque viverra",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 60846,
+      "points_per_dollar": 0.6,
+      "bonus": "turpis enim blandit"
+    }
+  },
+  {
+    "id": 39,
+    "fee": 577,
+    "image": "http://dummyimage.com/185x109.jpg/ff4444/ffffff",
+    "name": "nisl duis bibendum",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 48150,
+      "points_per_dollar": 1.7,
+      "bonus": "luctus nec molestie"
+    }
+  },
+  {
+    "id": 40,
+    "fee": 503,
+    "image": "http://dummyimage.com/100x158.jpg/dddddd/000000",
+    "name": "placerat praesent blandit nam nulla integer",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 94438,
+      "points_per_dollar": 1.9,
+      "bonus": "in blandit ultrices enim"
+    }
+  },
+  {
+    "id": 41,
+    "fee": 265,
+    "image": "http://dummyimage.com/164x150.jpg/ff4444/ffffff",
+    "name": "sapien dignissim vestibulum vestibulum ante",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 18903,
+      "points_per_dollar": 1.7,
+      "bonus": "euismod scelerisque quam turpis adipiscing lorem"
+    }
+  },
+  {
+    "id": 42,
+    "fee": 329,
+    "image": "http://dummyimage.com/227x120.bmp/5fa2dd/ffffff",
+    "name": "nibh in hac habitasse platea dictumst",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 91134,
+      "points_per_dollar": 1.9,
+      "bonus": "convallis nunc proin at turpis"
+    }
+  },
+  {
+    "id": 43,
+    "fee": 336,
+    "image": "http://dummyimage.com/129x155.jpg/ff4444/ffffff",
+    "name": "ipsum primis in faucibus",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 83819,
+      "points_per_dollar": 1.0,
+      "bonus": "felis fusce posuere"
+    }
+  },
+  {
+    "id": 44,
+    "fee": 354,
+    "image": "http://dummyimage.com/181x160.bmp/ff4444/ffffff",
+    "name": "quis orci nullam molestie nibh",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 50997,
+      "points_per_dollar": 1.3,
+      "bonus": "dolor vel est donec odio"
+    }
+  },
+  {
+    "id": 45,
+    "fee": 315,
+    "image": "http://dummyimage.com/199x195.jpg/ff4444/ffffff",
+    "name": "placerat praesent blandit nam nulla integer",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 46766,
+      "points_per_dollar": 2.0,
+      "bonus": "nec molestie sed"
+    }
+  },
+  {
+    "id": 46,
+    "fee": 454,
+    "image": "http://dummyimage.com/154x191.jpg/dddddd/000000",
+    "name": "quis tortor id nulla ultrices",
+    "card_type": "visa",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 18814,
+      "points_per_dollar": 1.9,
+      "bonus": "odio cras mi pede malesuada"
+    }
+  },
+  {
+    "id": 47,
+    "fee": 540,
+    "image": "http://dummyimage.com/234x198.png/ff4444/ffffff",
+    "name": "platea dictumst maecenas ut massa quis",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 20727,
+      "points_per_dollar": 0.6,
+      "bonus": "elementum pellentesque quisque porta"
+    }
+  },
+  {
+    "id": 48,
+    "fee": 425,
+    "image": "http://dummyimage.com/229x211.bmp/cc0000/ffffff",
+    "name": "accumsan felis ut at dolor",
+    "card_type": "mastercard",
+    "payment_type": "apple_pay",
+    "uses": "business",
+    "perks": {
+      "points": 63036,
+      "points_per_dollar": 1.8,
+      "bonus": "mi pede malesuada"
+    }
+  },
+  {
+    "id": 49,
+    "fee": 549,
+    "image": "http://dummyimage.com/243x227.png/ff4444/ffffff",
+    "name": "pulvinar lobortis est phasellus sit amet",
+    "card_type": "amex",
+    "payment_type": "android_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 82280,
+      "points_per_dollar": 1.2,
+      "bonus": "aenean lectus pellentesque eget nunc donec"
+    }
+  },
+  {
+    "id": 50,
+    "fee": 526,
+    "image": "http://dummyimage.com/219x171.bmp/dddddd/000000",
+    "name": "lacus curabitur at ipsum",
+    "card_type": "diners",
+    "payment_type": "apple_pay",
+    "uses": "personal",
+    "perks": {
+      "points": 59063,
+      "points_per_dollar": 1.3,
+      "bonus": "diam vitae quam suspendisse potenti nullam"
+    }
+  }
+]

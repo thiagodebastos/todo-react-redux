@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "**/components/**/*.js": "javascriptreact",
+    "**/src/containers/**/*.js": "javascriptreact",
+    "**/src/index.js": "javascriptreact"
+  },
+  "flow.enabled": true,
+  "flow.pathToFlow": "flow",
+  "flow.useNPMPackagedFlow": true,
+  "javascript.validate.enable": false,
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true
+}
